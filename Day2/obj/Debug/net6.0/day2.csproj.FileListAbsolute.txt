@@ -1,0 +1,15 @@
+D:\Dailycode\day2\bin\Debug\net6.0\day2.exe
+D:\Dailycode\day2\bin\Debug\net6.0\day2.deps.json
+D:\Dailycode\day2\bin\Debug\net6.0\day2.runtimeconfig.json
+D:\Dailycode\day2\bin\Debug\net6.0\day2.dll
+D:\Dailycode\day2\bin\Debug\net6.0\ref\day2.dll
+D:\Dailycode\day2\bin\Debug\net6.0\day2.pdb
+D:\Dailycode\day2\obj\Debug\net6.0\day2.csproj.AssemblyReference.cache
+D:\Dailycode\day2\obj\Debug\net6.0\day2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dailycode\day2\obj\Debug\net6.0\day2.AssemblyInfoInputs.cache
+D:\Dailycode\day2\obj\Debug\net6.0\day2.AssemblyInfo.cs
+D:\Dailycode\day2\obj\Debug\net6.0\day2.csproj.CoreCompileInputs.cache
+D:\Dailycode\day2\obj\Debug\net6.0\day2.dll
+D:\Dailycode\day2\obj\Debug\net6.0\ref\day2.dll
+D:\Dailycode\day2\obj\Debug\net6.0\day2.pdb
+D:\Dailycode\day2\obj\Debug\net6.0\day2.genruntimeconfig.cache
